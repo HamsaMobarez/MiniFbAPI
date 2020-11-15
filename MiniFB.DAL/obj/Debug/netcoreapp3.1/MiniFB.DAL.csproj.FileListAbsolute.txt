@@ -1,0 +1,15 @@
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.DAL.deps.json
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.DAL.runtimeconfig.json
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.DAL.runtimeconfig.dev.json
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.DAL.dll
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.DAL.pdb
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.Infrastructure.dll
+H:\MiniFB_API\MiniFB.DAL\bin\Debug\netcoreapp3.1\MiniFB.Infrastructure.pdb
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.csprojAssemblyReference.cache
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.AssemblyInfoInputs.cache
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.AssemblyInfo.cs
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.csproj.CopyComplete
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.dll
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.pdb
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.genruntimeconfig.cache
+H:\MiniFB_API\MiniFB.DAL\obj\Debug\netcoreapp3.1\MiniFB.DAL.csproj.CoreCompileInputs.cache
